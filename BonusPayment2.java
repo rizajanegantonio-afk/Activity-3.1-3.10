@@ -1,3 +1,6 @@
+/* Name: Riza Jane Anronio
+Course/Year/Section: BSIT NETSEC 1-1 */
+
 public class BonusPayment2 
 {
   public static void main(String[] args) 
